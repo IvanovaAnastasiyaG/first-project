@@ -1,4 +1,4 @@
-public class Praktikum {
+﻿public class Praktikum {
   public static void main(String[] args) {
         int freeHours = 4; // Объявили переменную с количеством свободного времени в часах и присвоили ей значение
                         
@@ -14,5 +14,4 @@ public class Praktikum {
         System.out.println("Сегодня не читаем.");
     }
   }
-
 } 
